@@ -1,0 +1,1 @@
+Vue + Vuex - JWT Authentication Example
